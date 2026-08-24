@@ -1,7 +1,7 @@
 url: https://sign.onepalmetto.com/api/health
-status: down
-code: 503
-responseTime: 184
-lastUpdated: 2026-08-23T23:20:18.409Z
+status: up
+code: 200
+responseTime: 979
+lastUpdated: 2026-08-24T15:22:57.712Z
 startTime: 2026-05-29T15:36:18.315Z
 generator: Upptime <https://github.com/upptime/upptime>
